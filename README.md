@@ -1,5 +1,5 @@
 # private-blockchain
-Demonstrate powerful features of private blockchains
+Curated list of powerful features and project for private blockchains
 
 # FAQ
 
