@@ -32,3 +32,15 @@ The best way to favour good actors is to be the main seller of the tokens, in or
 
 ## How can I make money with my blockchain?
 Most of the income is usually done by selling tokens to third parties accessing your private blockchain. However it is also possible to make it closed source so you can resell the technology to a third party. The pricing can be automated with the capability to implement it at the blockchain level: you can audit the tokens in circulation and ask for a percentage of the price they have been sold for.
+
+
+# Projects
+- Hyperledger https://github.com/hyperledger
+- Ripple https://github.com/ripple
+
+# Articles
+- The difference between public and private blockchain https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/
+- Public Vs Private blockchain protocols: What's the difference?
+https://bravenewcoin.com/news/public-vs-private-blockchain-protocols-whats-the-difference/
+
+
