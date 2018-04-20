@@ -12,6 +12,9 @@ Basically anything related to your database logic. Private blockchain is here to
 ### Why should I use a private blockchain instead of a normal database?
 The advantage of using a blockchain is that you can have more control on the integrity of the data you include in your system. You can see it as a smarter way to index your database where you can later check that nobody has changed the database content without your consent.
 
+### Is private blockchain friendly for the planet
+Absolutly! there is no need for mining and processing power to maintain the blockchain, this will prevent notably ice from melting on North Pole
+
 ### How can I secure my private blockchain?
 There are several ways to secure your private blockchain:
 - Protect from illegal access, making firewall between your servers network and public internet, using VPN for instance.
