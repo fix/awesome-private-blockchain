@@ -1,5 +1,8 @@
 # Awesome Private Blockchain
 Curated list of powerful features and project for private blockchains
+- [FAQ](https://github.com/fix/awesome-private-blockchain#faq)
+- [Projects](https://github.com/fix/awesome-private-blockchain#projects)
+- [Articles](https://github.com/fix/awesome-private-blockchain#articles)
 
 # FAQ
 
