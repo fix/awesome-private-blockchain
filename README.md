@@ -35,3 +35,12 @@ The best way to favour good actors is to be the main seller of the tokens, in or
 - it is also possible to make it closed source so you can resell the technology to third part. The pricing can be automated with the capability to implement at the blockchain level: you can audit the tokens in circulation ad ask for a percentage of the price thhey have been sold.
 
 
+# Projects
+- Hyperledger https://github.com/hyperledger
+- Ripple https://github.com/ripple
+
+# Articles
+- The difference between public and private blockchain https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/
+- Public Vs Private blockchain protocols: What's the difference?
+https://bravenewcoin.com/news/public-vs-private-blockchain-protocols-whats-the-difference/
+
