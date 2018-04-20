@@ -1,4 +1,4 @@
-# private-blockchain
+# Awesome Private Blockchain
 Curated list of powerful features and project for private blockchains
 
 # FAQ
